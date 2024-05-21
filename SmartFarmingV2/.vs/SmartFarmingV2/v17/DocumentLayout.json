@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SmartFarmingV2\\SmartFarmingV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A1744C-5895-44BB-97D2-2FAC22EDF52B}|SmartFarmingV2.WebAPI\\SmartFarmingV2.WebAPI.csproj|F:\\SmartFarmingV2\\SmartFarmingV2\\smartfarmingv2.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A1744C-5895-44BB-97D2-2FAC22EDF52B}|SmartFarmingV2.WebAPI\\SmartFarmingV2.WebAPI.csproj|solutionrelative:smartfarmingv2.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A1744C-5895-44BB-97D2-2FAC22EDF52B}|SmartFarmingV2.WebAPI\\SmartFarmingV2.WebAPI.csproj|f:\\smartfarmingv2\\smartfarmingv2\\smartfarmingv2.webapi\\works\\machinelearningbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A1744C-5895-44BB-97D2-2FAC22EDF52B}|SmartFarmingV2.WebAPI\\SmartFarmingV2.WebAPI.csproj|solutionrelative:smartfarmingv2.webapi\\works\\machinelearningbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 267,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SmartFarmingV2\\SmartFarmingV2\\SmartFarmingV2.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SmartFarmingV2.WebAPI\\Program.cs",
+              "ToolTip": "F:\\SmartFarmingV2\\SmartFarmingV2\\SmartFarmingV2.WebAPI\\Program.cs",
+              "RelativeToolTip": "SmartFarmingV2.WebAPI\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:22:46.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MachineLearningBackgroundService.cs",
+              "DocumentMoniker": "F:\\SmartFarmingV2\\SmartFarmingV2\\SmartFarmingV2.WebAPI\\Works\\MachineLearningBackgroundService.cs",
+              "RelativeDocumentMoniker": "SmartFarmingV2.WebAPI\\Works\\MachineLearningBackgroundService.cs",
+              "ToolTip": "F:\\SmartFarmingV2\\SmartFarmingV2\\SmartFarmingV2.WebAPI\\Works\\MachineLearningBackgroundService.cs",
+              "RelativeToolTip": "SmartFarmingV2.WebAPI\\Works\\MachineLearningBackgroundService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:57:27.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

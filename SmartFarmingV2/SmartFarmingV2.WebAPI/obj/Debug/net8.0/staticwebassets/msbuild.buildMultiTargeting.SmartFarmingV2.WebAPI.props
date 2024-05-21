@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SmartFarmingV2.WebAPI.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zoJVdtqaZ4FIGCXCqKOLWy9Zb3GLXC6qMgONXFroRpo=",
+  "Source": "SmartFarmingV2.WebAPI",
+  "BasePath": "_content/SmartFarmingV2.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

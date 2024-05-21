@@ -1,0 +1,45 @@
+<app-blank pageName="Ana Sayfa">
+    <app-section sectionTitle="Dashboard">
+        
+        <!-- <div class="gauge">
+            <div class="gauge__body">
+              <div class="gauge__fill"></div>
+              <div class="gauge__cover"></div>
+            </div>
+            <h3>Sıcaklık(°C)</h3>
+        </div> -->
+
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+
+        <div style="display: flex; width: 700px;">
+            <div id="speedometer" style="position: relative;width: 350px;height:250px;padding:10px;"></div>
+            <div id="humidity" style="position: relative;width: 350px;height:250px;padding:10px;"></div>
+        </div>
+        
+        <div style="display: flex; width: 700px;">
+            <div id="sunLight" style="position: relative;width: 350px;height:250px;padding:10px;"></div>
+            <div id="pressure" style="position: relative;width: 350px;height:250px;padding:10px;"></div>
+        </div>
+
+        <div style="display: flex; width: 700px;">
+            <div id="windSpeed" style="width: 350px;height:250px;padding:10px;"></div>
+            <div id="groundHumidity" style="width: 350px;height:250px;padding:10px;"></div>
+        </div>
+
+        <div style="display: flex; width: 100px;">
+            <div style="width: 100px;height:100px;padding:10px; margin-top: 30px;">
+                <div id="waterLevel"><img *ngIf="isWaterLevelHigh === 1" src="/assets/icons8-rain.gif" alt=""></div>
+                <div id="waterLevel"><img *ngIf="isWaterLevelHigh === 0" src="/assets/icons8-no-rain-64.png" alt=""></div>
+            </div>
+            <div style="width: 200px; height: 100px; padding:10px;">
+                <div id="relay"><img *ngIf="isRelayHigh === 1" src="/assets/icons8-led-on.png" alt=""></div>
+                <div id="relay"><img *ngIf="isRelayHigh === 0" src="/assets/icons8-led-off.png" alt=""></div>
+            </div>
+        </div>
+        
+        <div>
+            <canvas id="myChart"></canvas>
+        </div>
+
+    </app-section>
+</app-blank>

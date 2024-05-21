@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SmartFarmingV2.Entities/1.0.0": {
+        "runtime": {
+          "SmartFarmingV2.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartFarmingV2.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
